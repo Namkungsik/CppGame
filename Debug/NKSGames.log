@@ -1,0 +1,12 @@
+﻿  CObjAttack.cpp
+  CObjBuff.cpp
+  CObjHeal.cpp
+  CObject.cpp
+  CPaladin.cpp
+  CWizard.cpp
+  CWorrior.cpp
+  main.cpp
+C:\Users\user\source\repos\NKSGames\NKSGames\main.cpp(29,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\source\repos\NKSGames\NKSGames\main.cpp(38,5): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다...
+  NKSGames.vcxproj -> C:\Users\user\source\repos\NKSGames\Debug\NKSGames.exe
